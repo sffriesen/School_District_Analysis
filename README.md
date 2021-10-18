@@ -15,9 +15,9 @@ In each category, the omission of the Thomas High School (THS) 9th grade reading
 	- Percentage of students passing reading decreased 0.3%
 	- Overall Passing percentage of students decreased 0.1%
 	- DataFrame before omitting THS 9th grade scores:
-  ![image](Resources/District_Summary.png)
+  ![image](Resources/Images/District_Summary.png)
 	- DataFrame after omitting THS 9th grade scores:
-  ![image](Resources/District_Summary_THS.png)
+  ![image](Resources/Images/District_Summary_THS.png)
 
 
 - **School Summary:**
@@ -28,54 +28,54 @@ In each category, the omission of the Thomas High School (THS) 9th grade reading
 	- THS percentage of students passing reading decreased 0.3%
 	- THS overall passing percentage of students decreased 0.3%
 	- DataFrame before omitting THS 9th grade scores:
-  ![](Resources/School_Summary.png)
+  ![](Resources/Images/School_Summary.png)
 	- DataFrame after omitting THS 9th grade scores:
-  ![](Resources/School_Summary_THS.png)
+  ![](Resources/Images/School_Summary_THS.png)
 
 
 - **Highest Performing Schools:**
 	- Updating the scores didn't affect the averages and percentages enough to change Thomas High School's place in the highest performing schools (2nd place), however their scores are slightly lower in all categories, except in the average reading score, where the score has increased by 0.5 points
 	- DataFrame before omitting THS 9th grade scores:
-  ![](Resources/Highest_Performing.png)
+  ![](Resources/Images/Highest_Performing.png)
 	- DataFrame after omitting THS 9th grade scores:
-  ![](Resources/Highest_Performing_THS.png)
+  ![](Resources/Images/Highest_Performing_THS.png)
 
 
 - **Math and reading scores by grade:**
 	- Data is the same for all schools and grades except for THS 9th graders, where the data has been omitted ("NaN")
 	- Math DataFrame before and after omitting THS 9th grade scores (respectively):
 
-  ![](Resources/Math_by_Grade.png)
-  ![](Resources/Math_by_Grade_THS.png)
+  ![](Resources/Images/Math_by_Grade.png)
+  ![](Resources/Images/Math_by_Grade_THS.png)
 
 	- Reading DataFrame before and after omitting THS 9th grade scores (respectively):
 
-  ![](Resources/Reading_by_Grade.png)
-  ![](Resources/Reading_by_Grade_THS.png)
+  ![](Resources/Images/Reading_by_Grade.png)
+  ![](Resources/Images/Reading_by_Grade_THS.png)
 
 
 - **Scores by school spending:**
 	- There are some slight changes in the numbers for the spending bin that THS is a part of ($630 to $644 per student), however the difference is so small that rounding the amounts to the tens place doesn't account for the changes
 	- DataFrame before omitting THS 9th grade scores:
-  ![](Resources/Scores_by_Spending.png)
+  ![](Resources/Images/Scores_by_Spending.png)
 	- DataFrame after omitting THS 9th grade scores:
-  ![](Resources/Scores_by_Spending_THS.png)
+  ![](Resources/Images/Scores_by_Spending_THS.png)
 
 
 - **Scores by school size:**
 	- Similarly to above, there are changes in the bin that THS is a part of (Medium: 1000 - 2000 students), however the rounding does not show the change
 	- DataFrame before omitting THS 9th grade scores:
-  ![](Resources/Scores_by_Size.png)
+  ![](Resources/Images/Scores_by_Size.png)
 	- DataFrame after omitting THS 9th grade scores:
-  ![](Resources/Scores_by_Size_THS.png)
+  ![](Resources/Images/Scores_by_Size_THS.png)
 
 
 - **Scores by school type:**
 	- Again, there are changes in the category that THS is a part of (Charter Schools), however the rounding does not show the change
 	- DataFrame before omitting THS 9th grade scores:
-  ![](Resources/Scores_by_District.png)
+  ![](Resources/Images/Scores_by_District.png)
 	- DataFrame after omitting THS 9th grade scores:
-  ![](Resources/Scores_by_District_THS.png)
+  ![](Resources/Images/Scores_by_District_THS.png)
 
 
 ## Summary
